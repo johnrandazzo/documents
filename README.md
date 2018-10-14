@@ -1,5 +1,6 @@
 # documents
 Supplementary documents for grad school application:
+
 PSTAT 296 - MA Research in Actuarial Science
 
 PSTAT 196 - Undergrad Research in Actuarial Science
