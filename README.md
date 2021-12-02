@@ -1,5 +1,5 @@
 # documents
-Supplementary documents for grad school application:
+Supplementary documents:
 
 PSTAT 296 - MA Research in Actuarial Science
 
